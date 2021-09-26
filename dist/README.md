@@ -1,6 +1,6 @@
-# ReadMe Generator
-## This application is a command line application that utilizes Node.Js. Based on command prompts to the user a readme file is generated.
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
+# Employee Tracker
+## A database Command line App that allows the user access to an employee database that tracks employee names, roles and departments. The user can view all employees, view managers, salaries, jobs and departments. The user can update employees, add a role or department.
+![License: None](https://img.shields.io/badge/License-None-yellow.svg) 
 
 # Table of Contents
 * [Installation](#installation)
@@ -11,26 +11,26 @@
 * [License](#license)
 
 # Installation
-To install ReadMe Generator, follow the instructions below:
+To install Employee Tracker, follow the instructions below:
 
-Download the code and run node index. Additionally, you will have to run NPM Install first. Then follow the prompts.
+Download the code from Github and run NPM install. Also must download SQL.
 
 # Usage
-To use ReadMe Generator, follow the steps below:
+To use Employee Tracker, follow the steps below:
 
-Once all the dependencies are downloaded. Go to your terminal and perform a run node index. Then follow the prompts and be as detailed as possible.
+After the NPM install and SQL is downloaded. Run MYSQL and source the database, schema and seed files. Then exit and run Node App to select how to update or change the databases.
 
 # Contribute
-to contribute to ReadMe Generator, follow the instructions below:
-Fork the github Repo and clone the code. Once done, you will be able to make your own contributions.
+to contribute to Employee Tracker, follow the instructions below:
+Fork the repo and contribute code.
 
 # Tests
-Below are sample tests created for ReadMe Generator:
+Below are sample tests created for Employee Tracker:
 
-Currently, no tests are built into this project.
+None
 
 # Questions
 Please contact me at my github [GTN-git](https://github.com/GTN-git) or send me an email @ georgengo@msn.com with any questions.
 
 # License
-This project uses the following license [MIT](https://opensource.org/licenses/MIT)
+This project uses the following license [None]()
